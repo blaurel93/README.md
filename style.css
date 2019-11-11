@@ -1,18 +1,74 @@
 /*PORTFOLIO PAGE*/
+.container {
+    background: white;
+    padding: 20px;
+    margin-bottom: 20px;
+    width: 500px;
+    height: 500px;
+    margin-left: 18%;
+}
 #firstport {
     background-image: url(https://www.mindgames.com/uploaded/thumb/hangman300200.jpg);
+    background-size: contain;
+    background-repeat:no-repeat;
+    width: 150px;
+    height: 150px;
+    float: left;
 }
 #secondport {
     background-image: url(https://cdn-static.denofgeek.com/sites/denofgeek/files/styles/main_wide/public/8/58/dragon_ageinq.jpg?itok=LFUFo6y-);
+    background-size: contain;
+    background-repeat:no-repeat;
+    width: 150px;
+    height: 150px;
+    float: left;
 }
 #thirdport {
     background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1jH5W7MlIh7Gxk912GIvI_nc5drMT6pJI24ignvpx5wU4fImb&s);
+    clear: both;
+    overflow: auto;
+    background-size: contain;
+    background-repeat:no-repeat;
+    width: 150px;
+    height: 150px;
+    float: left;
 }
 #forthport {
     background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ22CKWdBAnv62EK2QSP_VjBUxznTzG24sRm2tN3xZtQzGAGeaF&s);
+    background-size: contain;
+    background-repeat:no-repeat;
+    width: 150px;
+    height: 150px;
+    float: left;
 }
 #fifthport {
     background-image: url(https://thenypost.files.wordpress.com/2014/06/rock-paper-4.jpg?quality=90&strip=all);
+    clear: both;
+    background-size: contain;
+    background-repeat:no-repeat;
+    width: 150px;
+    height: 150px;
+    float: left;
+}
+#hangman {
+    background: #4aaaa5;
+    text-align: center;
+}
+#rpg {
+    background: #4aaaa5;
+    text-align: center;
+}
+#Trivia {
+    background: #4aaaa5;
+    text-align: center;
+}
+#rutgers {
+    background: #4aaaa5;
+    text-align: center;
+}
+#rps {
+    background: #4aaaa5;
+    text-align: center;
 }
 /*PORTFOLIO PAGE*/
 
@@ -28,6 +84,8 @@
 .blueline {
     background-color: #4aaaa5;
     padding: 2px;
+    clear: both;
+    overflow: auto;
 }
 .copyright {
     background-color: #666666;
