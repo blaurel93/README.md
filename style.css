@@ -1,0 +1,35 @@
+/*PORTFOLIO PAGE*/
+#firstport {
+    background-image: url(https://www.mindgames.com/uploaded/thumb/hangman300200.jpg);
+}
+#secondport {
+    background-image: url(https://cdn-static.denofgeek.com/sites/denofgeek/files/styles/main_wide/public/8/58/dragon_ageinq.jpg?itok=LFUFo6y-);
+}
+#thirdport {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1jH5W7MlIh7Gxk912GIvI_nc5drMT6pJI24ignvpx5wU4fImb&s);
+}
+#forthport {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ22CKWdBAnv62EK2QSP_VjBUxznTzG24sRm2tN3xZtQzGAGeaF&s);
+}
+#fifthport {
+    background-image: url(https://thenypost.files.wordpress.com/2014/06/rock-paper-4.jpg?quality=90&strip=all);
+}
+/*PORTFOLIO PAGE*/
+
+/*TOP PART OF PAGE*/
+.myname {
+    background-color: #4aaaa5;
+}
+.whitebox {
+    background-color: white;
+}
+/*TOP PART OF PAGE*/
+/*FOOTER*/
+.blueline {
+    background-color: #4aaaa5;
+    padding: 2px;
+}
+.copyright {
+    background-color: #666666;
+}
+/*FOOTER*/
