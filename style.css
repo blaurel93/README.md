@@ -1,12 +1,21 @@
-/*PORTFOLIO PAGE*/
+/*MISC BOX FOR ALL PAGES*/
 .container {
     background: white;
     padding: 20px;
     margin-bottom: 20px;
     width: 500px;
-    height: 500px;
+    height: 550px;
     margin-left: 18%;
 }
+.greyline {
+    background: #cccccc;
+    padding: 1px;
+    float: left;
+    width: 500px;
+    margin-bottom: 30px;
+}
+/*MISC BOX FOR ALL PAGES*/
+/*PORTFOLIO PAGE*/
 #firstport {
     background-image: url(https://www.mindgames.com/uploaded/thumb/hangman300200.jpg);
     background-size: contain;
@@ -14,6 +23,8 @@
     width: 150px;
     height: 150px;
     float: left;
+    clear: both ;
+    margin-right: 20px;
 }
 #secondport {
     background-image: url(https://cdn-static.denofgeek.com/sites/denofgeek/files/styles/main_wide/public/8/58/dragon_ageinq.jpg?itok=LFUFo6y-);
@@ -32,6 +43,8 @@
     width: 150px;
     height: 150px;
     float: left;
+    margin-right: 20px;
+    margin-bottom: 20px;
 }
 #forthport {
     background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ22CKWdBAnv62EK2QSP_VjBUxznTzG24sRm2tN3xZtQzGAGeaF&s);
@@ -53,6 +66,8 @@
 #hangman {
     background: #4aaaa5;
     text-align: center;
+    margin-top: 75px;
+    height: 21px;
 }
 #rpg {
     background: #4aaaa5;
